@@ -1,0 +1,5 @@
+tsdoc-metadata.json
+lib
+node_modules
+.DS_Store
+out.d.ts
